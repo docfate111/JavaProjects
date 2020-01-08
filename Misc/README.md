@@ -1,1 +1,1 @@
-misc code
+Some more miscellaneous java projects
